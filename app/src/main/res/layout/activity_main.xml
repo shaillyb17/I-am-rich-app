@@ -19,7 +19,7 @@
         android:fontFamily="@font/alex_brush"
         android:text="@string/title"
         android:textColor="#FFFFFF"
-        android:textSize="50sp" />
+        android:textSize="60sp" />
 
     <ImageView
         android:id="@+id/imageView"
